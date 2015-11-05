@@ -20,19 +20,19 @@ namespace Vsite.CSharp
                 //    ispisati da nije djeljiv niti s jednim brojem
                 if (broj % 2 == 0)
                 {
-                    Console.WriteLine("broj N je djeljiv s 2"); 
+                    Console.WriteLine("broj {0} je djeljiv s 2",broj); 
                 }
                 else if (broj % 3 == 0)
                 {
-                    Console.WriteLine("broj N je djeljiv s 3"); 
+                    Console.WriteLine("broj {0} je djeljiv s 3",broj); 
                 }
                 else if (broj % 5 == 0)
                 {
-                    Console.WriteLine("broj N je djeljiv s 5"); 
+                    Console.WriteLine("broj {0} je djeljiv s 5",broj); 
                 }
                 else
                 {
-                    Console.WriteLine("broj N je djeljiv s nijednim brojem"); 
+                    Console.WriteLine("broj {0} je djeljiv s nijednim brojem",broj); 
                 }
 
             }
