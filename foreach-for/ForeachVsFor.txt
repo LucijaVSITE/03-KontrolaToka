@@ -1,1 +1,24 @@
-﻿
+﻿Niz obilazimo foreach: 4444
+Niz obilazimo for:     3237
+Listu obilazimo for:     3747
+Listu obilazimo foreach: 2785
+
+Niz obilazimo foreach: 3962
+Niz obilazimo for:     3310
+Listu obilazimo for:     5230
+Listu obilazimo foreach: 4269
+
+Niz obilazimo foreach: 3302
+Niz obilazimo for:     4151
+Listu obilazimo for:     5544
+Listu obilazimo foreach: 4299
+
+Niz obilazimo foreach: 3814
+Niz obilazimo for:     2451
+Listu obilazimo for:     4015
+Listu obilazimo foreach: 3920
+
+Niz obilazimo foreach: 2738
+Niz obilazimo for:     2435
+Listu obilazimo for:     5640
+Listu obilazimo foreach: 3088
